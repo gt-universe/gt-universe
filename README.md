@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gtiwaridev@gmail.com**
 
-- ⚡ Fun fact **My interest lies in "WHY" more then "WHAT"**
+- ⚡ Fun fact **My interest lies in "WHY" more than "WHAT"**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
