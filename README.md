@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+Read https://codecosmos.hashnode.dev/ 🔥🇮🇳
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
